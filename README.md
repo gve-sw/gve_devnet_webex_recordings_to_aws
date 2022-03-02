@@ -1,6 +1,6 @@
 # GVE DevNet Webex Recordings to AWS
 
-Cisco Webex is THE unified app for the future of work, where you can call, meet, collaborate and message. Webex allows you to record meetings if needed and the Webex cloud stores recordings by default up to one year and with a maximum of 10 years. However, some customers are required by law to store recordings for a longer period of time. One solution would be to migrate the recordings to the AWS cloud. 
+Cisco Webex is THE unified app for the future of work, where you can call, meet, collaborate and message. Webex allows you to record meetings if needed and the Webex cloud stores recordings by default up to one year with a maximum of 10 years possible. However, some customers are required by law to store recordings for a longer period of time. One solution would be to migrate the recordings to the AWS cloud. 
 
 By using the Webex and AWS API, we have created a Flask application that integrates the two solutions and allows the user to migrate recordings from the Webex cloud to the AWS cloud. We can migrate the recordings in three simple steps:
 
